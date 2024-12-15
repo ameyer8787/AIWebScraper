@@ -7,4 +7,3 @@ url = st.text_input("Enter a website URL: ")
 if st.button("Scraper Site"):
     st.write("Scraping the website")
 
-
